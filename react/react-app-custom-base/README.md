@@ -1,3 +1,7 @@
+# FAQ
+## 安装依赖
+目前测试成功的是使用`yarn` version 1 安装依赖成功，`npm` 安装依赖失败
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
